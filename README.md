@@ -2,7 +2,7 @@
 
 - This is just a project and all the images are from unsplash.
 
-[![Live Url](./ProductCard.png)]()
+![Live Url](./ProductCard.png){:target="_blank"}
 
 live url: (https://chandrakhd.github.io/Product-Card/)
 ### Images Used in This Project
