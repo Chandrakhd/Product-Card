@@ -4,7 +4,7 @@
 
 [![Live Url](./ProductCard.png)]()
 
-Live Site URL: (https://your-live-site-url.com](https://chandrakhd.github.io/Product-Card/))
+live url: (https://chandrakhd.github.io/Product-Card/)
 ### Images Used in This Project
 
 ![Image One](https://unsplash.com/photos/flatlay-photography-of-wireless-headphones-PDX_a_82obo)
